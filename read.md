@@ -13,4 +13,5 @@
    ### 分支合并
    - git merge mignlang
      + 当前分支前面有*号 
-     + 功能完成   
+     + 功能完成
+     + lang修改了read.me文件
